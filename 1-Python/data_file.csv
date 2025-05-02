@@ -1,0 +1,4 @@
+,courses,fees,duration,discount
+0,spark,2000,30days,1000
+1,pyspark,25000,40days,2000
+2,hadoop,26000,50days,3000

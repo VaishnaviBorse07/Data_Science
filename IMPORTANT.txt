@@ -1,0 +1,11 @@
+GitHub
+basic python 
+oop
+API flask/fasht
+python libraries-matplotlib,numpy,pandas,seaborn,regex,fitz,doctotext,,powerpoint,pdf,tessaract ocr
+logging
+NLP base of AI
+NLP_Embedding
+Database
+Deep learning-neural network,CNN,RNN,llm(large language model)
+research challenges 
